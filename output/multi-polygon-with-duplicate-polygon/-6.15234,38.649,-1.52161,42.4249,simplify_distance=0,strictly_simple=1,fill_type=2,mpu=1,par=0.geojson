@@ -1,1 +1,1 @@
-{"type": "Feature", "coordinates":null, "properties":{"message":"Tile layer had no features"}}
+{"type":"Polygon","coordinates":[[[-3.20190568221733,40.6773616540433],[-3.13753492897376,40.2224908533409],[-3.88318637385964,40.0800808594668],[-4.64494817191735,40.3177861420504],[-3.60692561371252,41.0822946122493],[-3.20190568221733,40.6773616540433]]],"properties":{"is_valid":false, "is_simple":true, "message":"Geometry has wrong orientation"}}
