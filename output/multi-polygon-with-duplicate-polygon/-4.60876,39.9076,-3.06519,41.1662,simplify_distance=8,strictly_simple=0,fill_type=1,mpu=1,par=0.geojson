@@ -1,1 +1,1 @@
-{"type":"Polygon","coordinates":[[[-3.16573393531144,40.6478675509325],[-3.10136318206787,40.1929967502302],[-3.84701462695375,40.0505819551021],[-4.6087646484375,40.2882872376857],[-3.57074797851965,41.0527957078845],[-3.16573393531144,40.6478675509325]]],"properties":{"is_valid":false, "is_simple":true, "message":"Geometry has wrong orientation"}}
+{"type":"Polygon","coordinates":[[[3921,1655],[4096,3514],[2070,4096],[0,3125],[2821,0],[3921,1655]]],"properties":{"hash":16092233056135553664, "is_valid":true, "is_simple":true, "message":"Geometry is valid"}}
