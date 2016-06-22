@@ -9,6 +9,15 @@ function geojsonToPolyjson(geojson) {
     var width = bbox[2][0] - bbox[0][0];
     var height = bbox[3][1] - bbox[1][1];
 
+    if (geojson.type === 'MultiPolygon') {
+        geojson.coordinates = geojson.coordinates.reduce(function(memo, multipolygon) {
+            multipolygon.forEach(function(polygon) {
+                memo.push(polygon);
+            });
+            return memo
+        }, []);
+    }
+
     var polyjson = geojson.coordinates.map(function(polygon) {
         return polygon.map(function(coords) {
             return [
