@@ -1,1 +1,1 @@
-{"type":"Polygon","coordinates":[[[-8.85422945022583,41.8609977212755],[-9.832763671875,36.9411114301077],[-7.42720037698746,37.1956110425964],[-6.19648218154907,41.5906742986839],[-8.85422945022583,41.8609977212755]]],"properties":{"is_valid":true, "is_simple":true, "message":"Geometry is valid"}}
+{"type": "Point", "coordinates":[], "properties":{"message":"Tile had no layers"}}
