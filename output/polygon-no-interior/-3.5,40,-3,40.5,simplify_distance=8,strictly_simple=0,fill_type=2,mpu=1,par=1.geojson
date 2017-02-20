@@ -1,1 +1,1 @@
-{"type":"Polygon","coordinates":[[[-3,40.5],[-3.5,40],[-3,40],[-3,40.5]]],"properties":{"is_valid":true, "is_simple":true, "message":"Geometry is valid"}}
+{"type":"Polygon","coordinates":[[[-3.5,40],[-3,40],[-3,40.5],[-3.5,40]]],"properties":{"is_valid":true, "is_simple":true, "message":"Geometry is valid"}}
